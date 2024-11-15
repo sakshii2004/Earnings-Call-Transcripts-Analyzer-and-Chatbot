@@ -42,7 +42,7 @@ This project uses ECTs from the top 50 companies, scraped from AlphaSpread and o
 
 ### Sentiment-based Summarization
 
-1. **Sentiment Analysis**: Using a BiLSTM model with GloVe embeddings and multi-head attention, the project achieved 90% accuracy on the Financial Phrasebank dataset.
+1. **Sentiment Analysis**: Using a BiLSTM model with GloVe 100-d embeddings and multi-head attention mechanism, the model achieved 90% accuracy on the Financial Phrasebank dataset.
 2. **Concise Summarization**: Leveraging the T5 model fine-tuned on the ECTSum dataset, the model generates sentiment-based summaries, classified as positive or negative with a context window of three sentences.
 
 ### Conversational AI (Chatbot)
