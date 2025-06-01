@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project leverages Natural Language Processing (NLP) techniques to analyze Earnings Call Transcripts (ECTs). It performs tasks such as summarization, sentiment-based summarization, and interactive Q&A through a chatbot. The final solution is implemented as an Android application, NuAegis, aimed at providing users with concise, actionable insights on financial reports.
+This project leverages Natural Language Processing (NLP) techniques to analyze Earnings Call Transcripts (ECTs). It performs tasks such as summarization, sentiment-based summarization, and interactive Q&A through a chatbot. The final solution is implemented as an Android application, NuAegis(https://github.com/sakshii2004/NuAegis), aimed at providing users with concise, actionable insights on financial reports. 
 
 ## Table of Contents
 1. [Objectives](#objectives)
